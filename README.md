@@ -16,7 +16,7 @@ Proyecto desarrollado como parte de una actividad académica, que consiste en la
 
 Puedes ver el sitio publicado en GitHub Pages aquí:
 
-👉 https://TU-USUARIO.github.io/el-faro-html5/
+👉 https://jocelyn-011.github.io/el-faro-html5/
 
 ## 🛠️ Tecnologías utilizadas
 
